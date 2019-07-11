@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Home AND STUFF
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Belkirk College BOO YA!
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,16 +16,18 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
+sub_heading: Engineering and Health Sciences YUP!!
+textline: |-
   Belkirk College of Engineering
 
   Ora et Labora
+
+  And other words!
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
